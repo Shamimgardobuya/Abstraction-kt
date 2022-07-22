@@ -1,0 +1,48 @@
+{
+  "version": "9",
+  "items": {
+    "53402d86ad9d36b69785c76d6a479859": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar"
+    },
+    "9abd8d7df0ec7d88ee1f2f729eac6e5d": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.6.21/b1595db93143f993bb52e5da1cea5ebd31050f8a/kotlin-stdlib-js-1.6.21.jar",
+      "target": "kotlin/1.6.21"
+    },
+    "9e04ef0e12cf4dcad171ce97a11f6697": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react/17.0.2-pre.290-kotlin-1.6.10/b9ba2ea6f94f6fed9191475ca1fccbc4aea7239b/kotlin-react-17.0.2-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-react/17.0.2-pre.290-kotlin-1.6.10"
+    },
+    "4cb06b8ffca71ea1309c96dec7fb8756": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-core/17.0.2-pre.290-kotlin-1.6.10/12f564c2d2855e4e99c58e4eaddae8ba4f08c54e/kotlin-react-core-17.0.2-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-react-core/17.0.2-pre.290-kotlin-1.6.10"
+    },
+    "0775570d470aeda1997d5f3428680f32": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-csstype/3.0.10-pre.290-kotlin-1.6.10/5445435417d43e6fbd9af87f748a97aa9d8ceff9/kotlin-csstype-3.0.10-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-csstype/3.0.10-pre.290-kotlin-1.6.10"
+    },
+    "b976d7c0c62695b47e2959310215f758": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.290-kotlin-1.6.10/28f2a759ac36b6344ab2eaa5cd680529a80ef26b/kotlin-extensions-1.0.1-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-extensions/1.0.1-pre.290-kotlin-1.6.10"
+    },
+    "790e84eb95b281e6a1bea3b99e4d051f": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-dom/17.0.2-pre.290-kotlin-1.6.10/9a133cb655903818088fbf968b42df42f0764f6f/kotlin-react-dom-17.0.2-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-react-dom/17.0.2-pre.290-kotlin-1.6.10"
+    },
+    "28d161bb0e50693d27d52983c76b6bec": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-css/17.0.2-pre.290-kotlin-1.6.10/f2a3e58867aa8c775e8cc856bbcbd12b8ea34ce9/kotlin-react-css-17.0.2-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-react-css/17.0.2-pre.290-kotlin-1.6.10"
+    },
+    "5948c64a7827135445a6e4420e575797": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-emotion/11.7.1-pre.290-kotlin-1.6.10/feb3ff4b3c960fd140205c02e97278340e6407bd/kotlin-emotion-11.7.1-pre.290-kotlin-1.6.10.jar",
+      "target": "kotlin-emotion/11.7.1-pre.290-kotlin-1.6.10"
+    },
+    "77dfccb2b3401a2059e6563ac3b68fa7": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.6.21/933a879730c4fb13b710c02fd98ce14e110b0f8f/kotlin-test-js-runner-1.6.21.jar",
+      "target": "kotlin-test-js-runner/1.6.21"
+    },
+    "133eb1f95cf099d0a298bc8e54b639aa": {
+      "src": "/home/student/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.6.21/ba0ae6f133743475db5dc042347f5f9d140a237/kotlin-test-js-1.6.21.jar",
+      "target": "kotlin-test/1.6.21"
+    }
+  }
+}
